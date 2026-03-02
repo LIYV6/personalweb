@@ -19,7 +19,7 @@ const textDisplay = document.getElementById('text-display');
 function initializeTextContent() {
     textDisplay.innerHTML = `
         <h3>鲤鱼交通集团简介：</h3>
-        <p>鲤鱼交通集团成立于2025年3月6日，是服务器内的第三家有独立运营能力的公司。</p>
+        <p>鲤鱼交通集团成立于2025年5月20日，是服务器内的第三家有独立运营能力的公司。</p>
         <p>运营线路有α、β、A、B、C、D线，服务于鲤城和鲤湖湾州，以及一条带有市域性质的γ线，该线路联通都会地区、第一城、第二城、铜钿城和梅友机场。</p>
         <p>另有一条借道鲤城南铁路的中心线，是连接鲤城和鲤湖湾州的重要铁路线路。</p>
     `;
@@ -205,4 +205,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
 
